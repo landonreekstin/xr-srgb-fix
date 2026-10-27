@@ -1,4 +1,4 @@
-/* ~/nixos-config/modules/nixos/profiles/vr-srgb-fix/layer.c
+/* xr-srgb-fix/layer.c
  *
  * OpenXR API layer that undoes a double sRGB encode on Proton D3D11 games.
  *

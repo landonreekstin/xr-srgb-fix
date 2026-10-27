@@ -1,4 +1,4 @@
-// ~/nixos-config/modules/nixos/profiles/vr-srgb-fix/decode.comp
+// xr-srgb-fix/decode.comp
 // sRGB -> linear over the raw bytes of an eye image (see layer.c).
 #version 450
 layout(local_size_x = 8, local_size_y = 8) in;
